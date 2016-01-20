@@ -3,8 +3,8 @@ package com.yth;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("github²âÊÔ");
-		System.out.println("github²âÊÔ2");
+		System.out.println("githubç¬¬ä¸€æ¬¡æäº¤");
+		System.out.println("githubç¬¬äºŒæ¬¡æäº¤");
 	}
 
 }
